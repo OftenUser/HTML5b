@@ -1,5 +1,5 @@
 
-Time to explore
+Time To Explore
 32,18,01,00,L
 ................................
 ................................
@@ -23,13 +23,13 @@ Time to explore
 06
 00S Whoa!  Hold on a second; this place doesn't look familiar.  What happened?    I don't remember anything!
 00S Uh... well, um... uh.... gosh, I'm so confused.
-00H Oh, I know!  I'll look through my journal entries!   After all, I am a journal.  So, let's see...   five minutes ago, I...
+00H Oh, I know!  I'll look through my journal entries!   After all, I am a journal.  So, let's see...   5 minutes ago, I...
 00S ...got eaten by Evil Leafy? WHAT?  That doesn't make any sense!
 00S Well, I guess I'll go look for my fellow FreeSmarters to get a sense of what's going on.
 99S Use the arrow keys to move and press the space bar to jump.
 000000
 
-First danger
+First Danger
 32,18,01,00,L
 ................................
 ......:.........................
@@ -78,7 +78,7 @@ Pillar
 00
 000000
 
-Going under
+Going Under
 32,18,01,00,L
 ..............................//
 .........................../////
@@ -102,7 +102,7 @@ Going under
 00
 000000
 
-Small packages
+Small Packages
 50,18,03,01,L
 ...//////////////////////////...............//////
 .....////.6....../........../..................../
@@ -158,7 +158,7 @@ Landfill
 00
 000000
 
-Rock bottom
+Rock Bottom
 32,50,03,06,L
 ///////////////////_//////^/////
 ..................///.../^^/....
@@ -216,7 +216,7 @@ YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 00
 000000
 
-A friend
+A Friend
 32,18,05,05,L
 ////////_///////////////_///////
 /:....../777777777777777/....../
@@ -244,7 +244,7 @@ YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 00
 000000
 
-A companion
+A Companion
 32,50,03,06,L
 ////////////////////////////////
 ///..F........................./
@@ -302,7 +302,7 @@ YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 00
 000000
 
-A sad goodbye
+A Sad Goodbye
 32,18,02,00,L
 ......................:.........
 //..............................
@@ -327,7 +327,7 @@ A sad goodbye
 00
 000000
 
-A change of terrain
+A Change Of Terrain
 32,18,01,00,L
 ..........................:.....
 ................................
@@ -387,7 +387,7 @@ Pillar 2
 00
 000000
 
-On the edge
+On The Edge
 32,18,05,03,L
 :...............................
 ....................8...........
@@ -471,7 +471,7 @@ AAEAAAAAAAAAAAAAAAAAAAA......:F.
 00
 000000
 
-Zoom zoom
+Zoom Zoom
 80,18,03,02,L
 ................:...............................................................
 ................................................................................
@@ -548,7 +548,7 @@ Switch
 00
 000000
 
-Living life on the edge
+Living Life On The Edge
 50,18,01,02,L
 ..................................................
 ..................................................
@@ -572,7 +572,7 @@ Living life on the edge
 00
 000000
 
-Say hello
+Say Hello
 32,18,04,02,L
 ................................
 ..........................N...N.
@@ -606,7 +606,7 @@ Say hello
 99S Press 'Z' to switch player control.
 000000
 
-Working together
+Working Together
 32,18,03,03,L
 ................................
 ................................
@@ -632,7 +632,7 @@ Working together
 00
 000000
 
-Pick me up
+Pick Me Up
 32,18,02,03,L
 ..........rZ..........8.........
 ..........rZ..........8.........
@@ -657,7 +657,7 @@ Pick me up
 00
 000000
 
-Horrifically tall
+Horrifically Tall
 32,50,08,03,L
 ................................
 ................................
@@ -720,7 +720,7 @@ Horrifically tall
 00
 000000
 
-Ground level
+Ground Level
 32,18,07,00,L
 ...............F................
 ...............F................
@@ -750,7 +750,7 @@ Ground level
 00
 000000
 
-Strange discovery
+Strange Discovery
 32,18,04,00,L
 :...............................
 ................................
@@ -775,13 +775,13 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 35,26.00,14.00,06
 36,24.00,14.00,06
 04
-00H Hey, look!  It's the Hand-powered Recovery Center!  It must have fallen out of the FreeSmart van!
-01S But, it's, like, broken into two pieces.  There's no way it can still work.
+00H Hey, look!  It's the Hand-Powered Recovery Center!  It must have fallen out of the FreeSmart van!
+01S But, it's, like, broken into 2 pieces.  There's no way it can still work.
 00S Maybe it can!  I am an HPRC User Manual, so I can look it up.  Let's see... According to me, the HPRC is very durable!
 01S Well, apparently not.
 000000
 
-Would you die for me?
+Would You Die For Me?
 32,18,04,00,L
 ................................
 ................................
@@ -809,7 +809,7 @@ wwwwwwwwwwww11111111wwwwwwwwwwww
 99S Press 'DOWN' to use the HPRC.
 000001
 
-Jump off a cliff
+Jump Off A Cliff
 32,18,07,00,L
 ................................
 ................................
@@ -839,7 +839,7 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 00
 000002
 
-Cross the uncrossable
+Cross The Uncrossable
 32,18,04,00,L
 ............w:..................
 ............w...................
@@ -866,7 +866,7 @@ wwwwwwwww2.....3wwwwww2.3ww2.f..
 00
 000003
 
-Build my pathway
+Build My Pathway
 50,18,04,00,L
 .................................................:
 ..................................................
@@ -893,7 +893,7 @@ Build my pathway
 00
 000002
 
-Don't look back
+Don't Look Back
 50,35,06,00,L
 .....................{{{{{{.....{{{{{{...........:
 .....................{{{{{{.....{{{{{{............
@@ -1008,7 +1008,7 @@ M€.........¯¯¯¯¯............N...
 00S I don't understand anything either!  Whatever.  You're not helping.  Bye.
 000000
 
-I need you for something
+I Need You For Something
 32,18,05,08,L
 €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
 :...................€........€€€
@@ -1113,7 +1113,7 @@ Dungeon
 00
 000001
 
-Thirst for acid
+Thirst For Acid
 62,18,09,10,L
 .............................................¶¶¶........²²²²²²
 ......................ºººº....ºººº..........................¼¼
@@ -1177,7 +1177,7 @@ Checkpoint!
 00
 000000
 
-Match filter
+Match Filter
 32,18,05,10,L
 ²²²²²²²²²²²²²²²²².....²²²²¶¶¶¶²²
 ......................²²²²¶¶¶¶²²
@@ -1205,7 +1205,7 @@ Match filter
 00
 000000
 
-Gimme my boxes
+Gimme My Boxes
 32,18,08,10,L
 ......................:²¶²¶²¶²¶²
 .................¾.....¶²¶²¶²¶²¶
@@ -1236,7 +1236,7 @@ Gimme my boxes
 00
 000000
 
-Oceanic divide
+Oceanic Divide
 50,18,05,10,L
 ...................²²²²²²²²²²²²¶¶¶¶AAAAAA²²²²²²²²²
 ...............................¶¶¶¶.:.............
@@ -1352,7 +1352,7 @@ Liquify
 00
 000000
 
-Eye skewb
+Eye Skewb
 32,30,06,09,L
 €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
 €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
@@ -1401,7 +1401,7 @@ Eye skewb
 03H Yay!
 000000
 
-A cool new addition
+A Cool New Addition
 32,18,05,08,L
 €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
 ................................
@@ -1429,7 +1429,7 @@ A cool new addition
 00
 000003
 
-Nice and toasty
+Nice And Toasty
 32,18,03,08,L
 €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
 ................................
@@ -1455,7 +1455,7 @@ nnnn...........:.........@@@@...
 00
 000000
 
-We are different
+We Are Different
 32,18,08,08,L
 €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
 :...............................
@@ -1486,7 +1486,7 @@ We are different
 00
 000000
 
-Stranger strangers
+Stranger Strangers
 32,18,06,08,H
 .€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€
 .€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€.€
@@ -1529,7 +1529,7 @@ Stranger strangers
 01S kthxbai.
 000000
 
-Heading out
+Heading Out
 90,18,10,11,L
 ...........................................................f.........................a....
 ...........................................................f.........................b....
@@ -1568,7 +1568,7 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww11111111wwwwwwwwww111111111wwwwwwwwwwwwwwwww
 00S Whatever.
 000000
 
-Weapon transport
+Weapon Transport
 32,18,06,11,L
 .......f........................
 .......f........................
@@ -1597,7 +1597,7 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 00
 000001
 
-Take the plunge
+Take The Plunge
 50,18,08,11,H
 ....................................................................................................
 ....................................................................................................
@@ -1628,7 +1628,7 @@ Take the plunge
 00
 000000
 
-I didn't want to see you
+I Didn't Want To See You
 32,18,07,11,H
 ...................................:............................
 ................................................................
@@ -1661,7 +1661,7 @@ I didn't want to see you
 00S Ugh, fine.
 000000
 
-Those things scare me
+Those Things Scare Me
 32,18,06,11,H
 ........../B.............................................b/B/B.:
 ........../B.............................................a......
@@ -1690,7 +1690,7 @@ Those things scare me
 00
 000000
 
-Never look back
+Never Look Back
 76,18,06,11,H
 .....................................................0.0.0.0.0.0.0.0.0..................................................................................
 ........................................................................................................................................................
@@ -1719,7 +1719,7 @@ Never look back
 00
 000004
 
-I'm sorry
+I'm Sorry
 32,18,03,11,H
 ................................................................
 ................................................................
